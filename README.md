@@ -5,8 +5,8 @@ Welcome to this comprehensive AI Lectures repository! This resource is designed 
 
 ## Lecture Overview
 
-- **Lecture 0:** Introduction to AI - A foundational start for the entire course.
-- **Lecture 1:** Linear Regression - Understanding the basics of statistical modeling.
+- <span style="color: blue;">**Lecture 0:** Introduction to AI - A foundational start for the entire course.
+- <span style="color: blue;">**Lecture 1:** Linear Regression - Understanding the basics of statistical modeling.
 - **Lecture 2:** Support Vector Machine (SVM) - Delving into classification algorithms.
 - **Lecture 3:** Image Handling - Techniques for processing and manipulating images.
 - **Lecture 4:** Artificial Neural Networks (ANN) - Exploring the basics of neural networks.
@@ -44,9 +44,9 @@ Welcome to this comprehensive AI Lectures repository! This resource is designed 
 ![photo](imgs/photo.JPG)
 
 - **Lane Detection using Semantic Segmentation:** A practical implementation demonstrating semantic segmentation.
-- 
-![photo](imgs/1.jpg)
-![photo](imgs/20.jpg)
+
+![photo](imgs/1.jpg) ![photo](imgs/20.jpg)
+
 
 
 
