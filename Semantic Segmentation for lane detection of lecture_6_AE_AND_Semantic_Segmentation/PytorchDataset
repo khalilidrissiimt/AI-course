@@ -1,0 +1,28 @@
+from torch.utils.data import Dataset,DataLoader,random_split
+import torch,glob,os,cv2
+from torchvision.transforms import ToTensor
+
+class LanesDataset(Dataset):
+	def __init__(self,img_dir,label_dir):
+		self.img_dir = [i for i in glob.glob(os.path.join(img_dir,r"*\*\*")) if i.split(os.path.sep)[-1]=="20.jpg"]
+		self.label_dir = glob.glob(os.path.join(label_dir,r"*\*\*"))
+
+	def __len__(self):
+		return len(self.img_dir)
+
+	def __getitem__(self,idx):
+		image = cv2.imread(self.img_dir[idx])
+		label = cv2.imread(self.label_dir[idx])
+
+		image = cv2.GaussianBlur(image,(5,5),0)
+		label = cv2.GaussianBlur(label,(5,5),0)
+
+		return torch.tensor(image).permute(2,0,1),torch.tensor(label).permute(2,0,1)
+
+dataset = LanesDataset(r'C:\Users\monsi\Desktop\project\lane_detection\train_data\clips',r'C:\Users\monsi\Desktop\project\lane_detection\train_data\gray_labels')
+
+train_dataset,test_dataset,valid_dataset = random_split(dataset,[2908,359,359])
+
+train_loader = DataLoader(train_dataset,batch_size = 16,shuffle = True)
+test_loader = DataLoader(test_dataset,batch_size = 16,shuffle = True)
+valid_loader = DataLoader(valid_dataset,batch_size = 16,shuffle = True)
