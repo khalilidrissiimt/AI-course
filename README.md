@@ -3,24 +3,6 @@
 
 Welcome to this comprehensive AI Lectures repository! This resource is designed for learners at all levels interested in exploring the world of Artificial Intelligence (AI). It provides a detailed series of lectures, starting from the basics and advancing to more complex topics. Whether you are a beginner or have some experience in AI, this repository will enhance your understanding and skills.
 
-### Key Features:
-- **In-Depth Lectures:** From introductory concepts to advanced topics.
-
-
-![Robot in Action](PDF%lectures/12.jpg)
-
-
-- **Practical Code Examples:** Every lecture ends with a coding session.
-
-  
-![photo](PDF%lectures/13.jpg)
-- **Frameworks & Libraries:** Primarily uses PyTorch, with practical applications in various AI domains.
-- **Autonomous Driving Car Project:** Includes code for an autonomous driving car, converted from Keras to PyTorch.
-  ![photo](Autonomous%driving%code%for%lecture_5_CNN/photo.JPG)
-- **Lane Detection using Semantic Segmentation:** A practical implementation demonstrating semantic segmentation.
- ![photo](Semantic%Segmentation%for%lane%detection%of%lecture6_AE_AND_Semantic_Segmentation/1.jpg)
-![photo](Semantic%Segmentation%for%lane%detection%of%lecture6_AE_AND_Semantic_Segmentation/20.jpg)
-
 ## Lecture Overview
 
 - **Lecture 0:** Introduction to AI - A foundational start for the entire course.
@@ -40,6 +22,28 @@ Welcome to this comprehensive AI Lectures repository! This resource is designed 
 - **Lecture 14:** Generative AI - Understanding AI that can generate novel content.
 - **Lecture 15:** Large Language Models (LLM) - Exploring the world of advanced language processing.
 - **Lecture 16:** Speeding Up Inference using DeepSpeed - Techniques for optimizing AI model performance.
+![photo](imgs/Capture.JPG)
+
+
+### Key Features:
+- **In-Depth Lectures:** From introductory concepts to advanced topics.
+
+
+![photo](imgs/12.jpg)
+
+
+- **Practical Code Examples:** Every lecture ends with a coding session.
+
+  
+![photo](imgs/13.jpg)
+- **Frameworks & Libraries:** Primarily uses PyTorch, with practical applications in various AI domains.
+- **Autonomous Driving Car Project:** Includes code for an autonomous driving car, converted from Keras to PyTorch.
+  ![photo](imgs/photo.JPG)
+- **Lane Detection using Semantic Segmentation:** A practical implementation demonstrating semantic segmentation.
+ ![photo](imgs/1.jpg)
+![photo](imgs/20.jpg)
+
+
 
 ### Upcoming Lectures
 - Lectures on advanced topics are being prepared and will be added soon.
