@@ -5,10 +5,15 @@ Welcome to this comprehensive AI Lectures repository! This resource is designed 
 
 ### Key Features:
 - **In-Depth Lectures:** From introductory concepts to advanced topics.
+![Robot in Action](PDF lectures/12.jpg)
 - **Practical Code Examples:** Every lecture ends with a coding session.
+![Robot in Action](PDF lectures/13.jpg)
 - **Frameworks & Libraries:** Primarily uses PyTorch, with practical applications in various AI domains.
 - **Autonomous Driving Car Project:** Includes code for an autonomous driving car, converted from Keras to PyTorch.
+  ![Robot in Action](Autonomous driving code for lecture_5_CNN/photo.JPG)
 - **Lane Detection using Semantic Segmentation:** A practical implementation demonstrating semantic segmentation.
+ ![Robot in Action](Semantic Segmentation for lane detection of lecture_6_AE_AND_Semantic_Segmentation/1.jpg)
+![Robot in Action](Semantic Segmentation for lane detection of lecture_6_AE_AND_Semantic_Segmentation/20.jpg)
 
 ## Lecture Overview
 
