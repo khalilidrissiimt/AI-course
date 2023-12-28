@@ -22,6 +22,7 @@ Welcome to this comprehensive AI Lectures repository! This resource is designed 
 - **Lecture 14:** Generative AI - Understanding AI that can generate novel content.
 - **Lecture 15:** Large Language Models (LLM) - Exploring the world of advanced language processing.
 - **Lecture 16:** Speeding Up Inference using DeepSpeed - Techniques for optimizing AI model performance.
+
 ![photo](imgs/Capture.JPG)
 
 
@@ -36,11 +37,15 @@ Welcome to this comprehensive AI Lectures repository! This resource is designed 
 
   
 ![photo](imgs/13.jpg)
+
 - **Frameworks & Libraries:** Primarily uses PyTorch, with practical applications in various AI domains.
 - **Autonomous Driving Car Project:** Includes code for an autonomous driving car, converted from Keras to PyTorch.
-  ![photo](imgs/photo.JPG)
+  
+![photo](imgs/photo.JPG)
+
 - **Lane Detection using Semantic Segmentation:** A practical implementation demonstrating semantic segmentation.
- ![photo](imgs/1.jpg)
+- 
+![photo](imgs/1.jpg)
 ![photo](imgs/20.jpg)
 
 
