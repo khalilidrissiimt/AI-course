@@ -5,8 +5,14 @@ Welcome to this comprehensive AI Lectures repository! This resource is designed 
 
 ### Key Features:
 - **In-Depth Lectures:** From introductory concepts to advanced topics.
+
+
 ![Robot in Action](PDF lectures/12.jpg)
+
+
 - **Practical Code Examples:** Every lecture ends with a coding session.
+
+  
 ![Robot in Action](PDF lectures/13.jpg)
 - **Frameworks & Libraries:** Primarily uses PyTorch, with practical applications in various AI domains.
 - **Autonomous Driving Car Project:** Includes code for an autonomous driving car, converted from Keras to PyTorch.
