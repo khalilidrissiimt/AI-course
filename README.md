@@ -45,7 +45,7 @@ Welcome to this comprehensive AI Lectures repository! This resource is designed 
 
 - **Lane Detection using Semantic Segmentation:** A practical implementation demonstrating semantic segmentation.
 
-|![photo](imgs/1.jpg) | ![photo](imgs/20.jpg)|
+| ![photo](imgs/1.jpg =250x) | ![photo](imgs/20.jpg =250x) |
 
 
 
